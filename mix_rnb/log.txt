@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Firewall
+Date: Tue, 21 Jul 2020 07:29:56 GMT
+Content-Type: text/html
+Content-Length: 979
+Connection: keep-alive
+Set-Cookie: security_session_verify=3ef0dfbd13cd656adfcd0223310fbb6a; expires=Fri, 24-Jul-20 15:29:56 GMT; path=/; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+
+HTTP/1.1 200 OK
+Server: Firewall
+Date: Tue, 21 Jul 2020 07:29:56 GMT
+Content-Type: text/html
+Content-Length: 979
+Connection: keep-alive
+Set-Cookie: security_session_verify=3ef0dfbd13cd656adfcd0223310fbb6a; expires=Fri, 24-Jul-20 15:29:56 GMT; path=/; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/><meta http-equiv="Connection" content="Close"/><script type="text/javascript">function stringToHex(str){var val="";for(var i = 0; i < str.length; i++){if(val == "")val = str.charCodeAt(i).toString(16);else val += str.charCodeAt(i).toString(16);}return val;}function YunSuoAutoJump(){ var width =screen.width; var height=screen.height; var screendate = width + "," + height;var curlocation = window.location.href;if(-1 == curlocation.indexOf("security_verify_")){ document.cookie="srcurl=" + stringToHex(window.location.href) + ";path=/;";}self.location = "/plugin.php?id=dsu_paulsign:sign&security_verify_data=" + stringToHex(screendate);}</script><script>setTimeout("YunSuoAutoJump()", 50);</script></head><!--2020-07-21 15:29:56--></html>
